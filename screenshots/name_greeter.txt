@@ -1,0 +1,10 @@
+NAME GREETER - FULL NAME RUN
+
+Enter your full name: Peter John
+Hello, Peter!
+
+
+NAME GREETER - SINGLE NAME RUN
+
+Enter your full name: Peter
+Please enter your full name.
